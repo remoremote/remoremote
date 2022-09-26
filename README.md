@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm remoremote</h1>
 
-- 🔭 I’m currently working on [maison.work](https://maison.work/)
+<h2 align="left">- 🔭 I’m currently working on [maison.work](https://maison.work/)</h2>
 
 - 📫 How to reach me **hi@remostahl.com**
 
