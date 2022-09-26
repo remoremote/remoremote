@@ -1,4 +1,4 @@
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://drive.google.com/drive/u/0/folders/176Zv8RlvBbVc0VoalmY38TMN5F4v3emY))
+<img src="https://drive.google.com/drive/u/0/folders/176Zv8RlvBbVc0VoalmY38TMN5F4v3emY" alt="Alt text" title="Optional title">
 
 <h2 align="left">Hi 👋, I'm remoremote</h2>
 
