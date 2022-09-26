@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm remoremote</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [maison.work](https://maison.work/)
 
