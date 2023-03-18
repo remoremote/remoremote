@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm remoremote</h2>
+<h2 align="left">Hi there👋, I'm remoremote</h2>
 
 I’m currently building [maison.work](https://maison.work/)
 
